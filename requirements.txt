@@ -1,0 +1,9 @@
+streamlit
+pdf2image
+pytesseract
+spacy
+langchain
+google-generativeai
+python-dotenv
+Pillow
+pandas
