@@ -7,3 +7,4 @@ google-generativeai
 python-dotenv
 Pillow
 pandas
+langchain_google_genai
