@@ -12,5 +12,3 @@ faiss-cpu==1.7.4
 protobuf==4.24.3
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 python-multipart==0.0.6
-poppler-utils==0.1.0
-tesseract-ocr==5.3.3
