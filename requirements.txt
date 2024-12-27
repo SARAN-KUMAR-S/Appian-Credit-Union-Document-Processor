@@ -1,10 +1,11 @@
 streamlit
 pdf2image
 pytesseract
-spacy
 langchain
 google-generativeai
 python-dotenv
 Pillow
 pandas
 langchain_google_genai
+spacy==3.7.3  
+
